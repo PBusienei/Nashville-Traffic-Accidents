@@ -1,1 +1,4 @@
-# Nashville-Traffic-Accidents
+# Exploratory Data Analysis of Nashville-Traffic-Accidents 2010-2020
+
+## Goal:
+The main goal of this EDA was to identify the main factors the most days that car crashes happens in Nashville. I also looked into what type of car accidents mostly happen.  The project utilized the data of road and traffic accidents from Nashville, TN . The targeted data was prepared and visualized using different graphs in an attempt to analyze and identify the likelihood of accidents, according to different factors that could be (but not limited to): driver’s gender, vehicle category, season, weather conditions, day of the week, time and location of accidents.
